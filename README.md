@@ -37,12 +37,21 @@ HTML • CSS • PostgreSQL • Supabase
 Git • GitHub • VS Code • Visual Studio •
 IntelliJ IDEA • Android Studio
 
-## 🚀 Featured Projects
 
-### 🚗 CarSalePro
-Desktop car dealership management system.
+## 🚀 Portfolio Projects
 
-`Java` `JavaFX` `PostgreSQL`
+I'm currently building a collection of practical
+software projects focused on real business needs.
+
+### Upcoming Projects
+
+- **BookingFlow** — Online appointment booking system
+- **StockLite** — Inventory management application
+- **DataClean** — Excel and CSV automation tool
+
+Projects will be published with source code,
+screenshots, and setup instructions.
+
 
 ### 🛒 Electronics Store
 Android electronics shopping application
@@ -73,11 +82,12 @@ and visualization.
 - Desktop applications
 - Bug fixing and software improvements
 
+
 ## 📫 Contact
 
-📍 Astana, Kazakhstan
-
-🌐 [GitHub Profile](https://github.com/StepanPozd)
+- 📍 **Location:** Astana, Kazakhstan
+- 📧 **Email:** [step45970@gmail.com](mailto:step45970@gmail.com)
+- 🌐 **GitHub:** [StepanPozd](https://github.com/StepanPozd)
 
 ---
 
